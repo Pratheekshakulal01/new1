@@ -1,4 +1,13 @@
 hii
 hello
+<<<<<<< Updated upstream
 hi
 ..
+<<<<<<< Updated upstream
+=======
+=======
+world
+stashing newly
+bb
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
